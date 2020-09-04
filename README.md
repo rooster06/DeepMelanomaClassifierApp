@@ -23,10 +23,10 @@ This web app outputs the probability of Melanoma in images of skin lesions uploa
 
 
 Notes -
-The Inference model in this app is based on the EfficientNet B5 architecture, trained on the SIIM Melanoma dataset.
-The model achieves SOTA performance of 0.9339 AUROC on the test data utilizing heavy Test Time Augmentation, 55 to be exact.
-Feel free to check out the GitHub repo for the scripts and details to train the model.
-The binder docker is sometimes slow, be patient with the App loading or runtime.
+- The Inference model in this app is based on the EfficientNet B5 architecture, trained on the SIIM Melanoma dataset.
+- The model achieves SOTA performance of 0.9339 AUROC on the test data utilizing heavy Test Time Augmentation, 55 to be exact.
+- Feel free to check out the GitHub repo for the scripts and details to train the model.
+- The binder docker is sometimes slow, be patient with the App loading or runtime.
 
 
 Repo Descriptions - 
