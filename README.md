@@ -21,6 +21,14 @@ This web app outputs the probability of Melanoma in images of skin lesions uploa
 <font color='red'>**Note:**</font> This is a proof of concept for research purposes ONLY. Always seek professional medical help in a clinical setting for final diagnosis.
 
 
+
+Notes -
+The Inference model in this app is based on the EfficientNet B5 architecture, trained on the SIIM Melanoma dataset.
+The model achieves SOTA performance of 0.9339 AUROC on the test data utilizing heavy Test Time Augmentation, 55 to be exact.
+Feel free to check out the GitHub repo for the scripts and details to train the model.
+The binder docker is sometimes slow, be patient with the App loading or runtime.
+
+
 Repo Descriptions - 
 1. DeepMelanomaApp.ipynb - main driver for the App with widgets 
 2. download_gdrive.py - Helper script to download the model weights
