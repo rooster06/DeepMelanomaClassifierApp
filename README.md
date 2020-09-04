@@ -20,7 +20,8 @@ This web app outputs the probability of Melanoma in images of skin lesions uploa
 
 <font color='red'>**Note:**</font> This is a proof of concept for research purposes ONLY. Always seek professional medical help in a clinical setting for final diagnosis.
 
-File Descriptions - 
+
+Repo Descriptions - 
 1. DeepMelanomaApp.ipynb - main driver for the App with widgets 
 2. download_gdrive.py - Helper script to download the model weights
 3. environment.yml - Docker Environment dependencies and packages setup for app.
