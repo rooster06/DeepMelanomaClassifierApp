@@ -8,8 +8,7 @@ Melanoma is the most serious type of skin cancer, develops in the cells (melanoc
 
 This web app outputs the probability of Melanoma in images of skin lesions uploaded by the user. The user can also choose the number of Test Time Augmentation (T.T.A.) to get more accurate predictions.
 
-<video src="demo_mov.mp4" width="320" height="200" controls preload></video>
-
+[![Demo Vid]](https://youtu.be/S7FkDImECK0)
 
 <h3>Directions For Use:</h3>
 
